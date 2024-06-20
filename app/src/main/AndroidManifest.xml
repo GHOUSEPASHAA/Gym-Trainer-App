@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission
+        android:name="android.permission.PACKAGE_USAGE_STATS"
+        tools:ignore="ProtectedPermissions" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GymTrainer"
+        tools:targetApi="31">
+        <activity
+            android:name=".WallSit"
+            android:exported="false" />
+        <activity
+            android:name=".JumpSquats"
+            android:exported="false" />
+        <activity
+            android:name=".DumbellSeated"
+            android:exported="false" />
+        <activity
+            android:name=".DumbellReverse"
+            android:exported="false" />
+        <activity
+            android:name=".KneeTouches"
+            android:exported="false" />
+        <activity
+            android:name=".OldAge"
+            android:exported="false" />
+        <activity
+            android:name=".AdultMale"
+            android:exported="false" />
+        <activity
+            android:name=".AdultFemale"
+            android:exported="false" />
+        <activity
+            android:name=".TeenMale"
+            android:exported="false" />
+        <activity
+            android:name=".Tricep"
+            android:exported="false" />
+        <activity
+            android:name=".TriceoActivity4"
+            android:exported="false" />
+        <activity
+            android:name=".TricepActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".TicepActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".TricepActivity1"
+            android:exported="false" />
+        <activity
+            android:name=".UserItemsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Chestwork4"
+            android:exported="false" />
+        <activity
+            android:name=".Chestwork3"
+            android:exported="false" />
+        <activity
+            android:name=".Chestwork2"
+            android:exported="false" />
+        <activity
+            android:name=".Chestwork1"
+            android:exported="false" />
+        <activity
+            android:name=".Chestworkout"
+            android:exported="false" />
+        <activity
+            android:name=".Calorie"
+            android:exported="false" />
+        <activity
+            android:name=".ChestPaining"
+            android:exported="false" />
+        <activity
+            android:name=".ChestPain2"
+            android:exported="false" />
+        <activity
+            android:name=".ChestPain1"
+            android:exported="false" />
+        <activity
+            android:name=".Handexercise2"
+            android:exported="false" />
+        <activity
+            android:name=".Handexercise1"
+            android:exported="false" />
+        <activity
+            android:name=".HandPAin"
+            android:exported="false" />
+        <activity
+            android:name=".LegExercise2"
+            android:exported="false" />
+        <activity
+            android:name=".LegExercise1"
+            android:exported="false" />
+        <activity
+            android:name=".LegPain"
+            android:exported="false" />
+        <activity
+            android:name=".Payments"
+            android:exported="false" />
+        <activity
+            android:name=".BackExercise2"
+            android:exported="false" />
+        <activity
+            android:name=".BackPai"
+            android:exported="false" />
+        <activity
+            android:name=".BackExercise1"
+            android:exported="false" />
+        <activity
+            android:name=".BackPain"
+            android:exported="false" />
+        <activity
+            android:name=".Chatbot"
+            android:exported="false" />
+        <activity
+            android:name=".EyeExercise2"
+            android:exported="false" />
+        <activity
+            android:name=".EyeExercise1"
+            android:exported="false" />
+        <activity
+            android:name=".EyePain"
+            android:exported="false" />
+        <activity
+            android:name=".BarbellFront"
+            android:exported="false" />
+        <activity
+            android:name=".Barbell"
+            android:exported="false" />
+        <activity
+            android:name=".NeckExercise2"
+            android:exported="false" />
+        <activity
+            android:name=".NeckExercise1"
+            android:exported="false" />
+        <activity
+            android:name=".NeckPain"
+            android:exported="false" />
+        <activity
+            android:name=".TeenFemale"
+            android:exported="false" />
+        <activity
+            android:name=".ChildrenDiet"
+            android:exported="false" />
+        <activity
+            android:name=".Diet"
+            android:exported="false" />
+        <activity
+            android:name=".PainsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PrisonerSquats"
+            android:exported="false" />
+        <activity
+            android:name=".CrossSquats"
+            android:exported="false" />
+        <activity
+            android:name=".Shoulders"
+            android:exported="false" />
+        <activity
+            android:name=".Legs"
+            android:exported="false" />
+        <activity
+            android:name=".DumbellBicepCurl"
+            android:exported="false" />
+        <activity
+            android:name=".BicepCurl"
+            android:exported="false" />
+        <activity
+            android:name=".BicepsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AttendanceActivity"
+            android:exported="false" />
+        <activity
+            android:name=".Booking"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".CrossCrunches"
+            android:exported="false" />
+        <activity
+            android:name=".HeelTouches"
+            android:exported="false" />
+        <activity
+            android:name=".Crunches"
+            android:exported="false" />
+        <activity
+            android:name=".AbsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AboveActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>

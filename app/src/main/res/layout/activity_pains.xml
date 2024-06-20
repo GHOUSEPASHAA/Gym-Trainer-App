@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PainsActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:title="Rocky Gym"
+        app:titleTextColor="@color/white" />
+
+    <androidx.gridlayout.widget.GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:columnCount="2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar3"
+        app:rowCount="6">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:orientation="horizontal"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1">
+
+            <ImageView
+                android:id="@+id/iback"
+                android:layout_width="50dp"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+                android:foregroundGravity="fill"
+                android:scaleType="centerCrop"
+                android:src="@drawable/backpain"
+                app:srcCompat="@drawable/backpain" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:foregroundGravity="fill"
+            android:orientation="horizontal"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1">
+
+            <ImageView
+                android:id="@+id/ineck"
+                android:layout_width="50dp"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+                android:foregroundGravity="fill"
+
+                app:srcCompat="@drawable/neckpain" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:foregroundGravity="fill"
+            android:orientation="horizontal"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1">
+
+            <ImageView
+                android:id="@+id/ileg"
+                android:layout_width="50dp"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+
+                app:srcCompat="@drawable/legpainh" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:foregroundGravity="fill"
+            android:orientation="horizontal"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1">
+
+            <ImageView
+                android:id="@+id/ihand"
+                android:layout_width="50dp"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+
+                app:srcCompat="@drawable/handpain" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:foregroundGravity="fill"
+            android:orientation="horizontal"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1">
+
+            <ImageView
+                android:id="@+id/ieye"
+                android:layout_width="50dp"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+
+                app:srcCompat="@drawable/eyepain" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:foregroundGravity="fill"
+            android:orientation="horizontal"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1">
+
+            <ImageView
+                android:id="@+id/ichest"
+                android:layout_width="50dp"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+
+                app:srcCompat="@drawable/chestpain" />
+        </LinearLayout>
+    </androidx.gridlayout.widget.GridLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958231675443",
+    "project_id": "gym-trainer-c4c50",
+    "storage_bucket": "gym-trainer-c4c50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958231675443:android:ac02b056adf1e581fbd946",
+        "android_client_info": {
+          "package_name": "com.example.gymtrainer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBapGAT5S8Cstjpj18mI5yBlx91CGhkfmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

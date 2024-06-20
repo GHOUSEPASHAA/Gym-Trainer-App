@@ -1,0 +1,379 @@
+<resources>
+    <string name="app_name">gym trainer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="crunches">To perform crunches, begin by lying on your back with knees bent and feet flat on the floor. Engage your core muscles by drawing your belly button towards your spine. With your hands behind your head or crossed over your chest, exhale as you lift your upper body off the floor, curling your shoulders towards your pelvis. Keep your lower back pressed into the floor and focus on contracting your abdominal muscles. Hold the crunch position briefly before inhaling and slowly lowering back down to the starting position. Repeat for the desired number of repetitions, breathing out as you crunch up and in as you lower down. Remember to maintain controlled movements and avoid pulling on your neck with your hands.</string>
+    <string name="Heeltouches">Lie flat on your back on a comfortable surface, such as a mat, with your knees bent and feet flat on the ground. Place your arms straight down by your sides, with your palms facing the floor. Engage your core muscles to lift your head, neck, and shoulders slightly off the ground, keeping your lower back pressed into the mat. Keep your gaze forward and avoid straining your neck. Exhale as you twist your torso to the right, reaching your right hand towards your right heel. Inhale as you return to the center, then exhale as you twist your torso to the left, reaching your left hand towards your left heel. Continue alternating sides in a controlled manner, keeping your movements slow and controlled. Aim for 10-15 repetitions on each side, or as many as you can do with proper form. Focus on feeling the contraction in your obliques with each repetition.</string>
+    <string name="crosscrunches">Lie flat on your back on an exercise mat or the floor. Bend your knees and place your feet flat on the floor, hip-width apart. Cross your right ankle over your left knee, forming a \"figure 4\" shape with your legs. Place your hands behind your head, elbows pointing out to the sides. Engage your core muscles by pulling your belly button towards your spine. Exhale as you lift your upper body, aiming to bring your left elbow towards your right knee. At the same time, lift your right shoulder blade off the ground to bring your torso towards your knee. Keep your lower back pressed into the floor throughout the movement to protect your spine. Inhale as you lower your upper body back down to the starting position with control. Repeat the movement for the desired number of repetitions, then switch sides by crossing your left ankle over your right knee and repeating the crunches.</string>
+    <string name="default_web_client_id">958231675443-l862jtkhaf7qvi538uf0rflrq48d0a2b.apps.googleusercontent.com</string>
+    <string name="bicep_curl_steps">How to do a Bicep Curl:\n1. Stand with your feet shoulder-width apart and hold a dumbbell in each hand, arms hanging by your sides.\n2. Keep your elbows close to your torso and rotate your palms to face forward.\n3. Exhale and slowly curl the weights upward towards your shoulders, keeping your elbows stationary.\n4. Inhale and lower the weights back to the starting position in a controlled manner.\n5. Repeat for the desired number of repetitions.</string>
+    <string name="dumbbell_bicep_curl_steps">1. Stand with feet shoulder-width apart, holding a dumbbell in each hand at arm length.\n\n
+2. Keep your elbows close to your torso and rotate the palms of your hands until they are facing forward.\n\n
+3. Exhale and curl the weights while keeping your upper arms stationary. Continue to raise the weights until your biceps are fully contracted and the dumbbells are at shoulder level.\n\n
+4. Hold the contracted position for a brief pause as you squeeze your biceps.\n\n
+5. Inhale and slowly begin to lower the dumbbells back to the starting position.\n\n
+6. Repeat for the recommended amount of repetitions.</string>
+    <string name="cross_squats_steps">
+    Cross Squats Steps:\n
+    1. Stand with your feet shoulder-width apart, toes pointing slightly outwards.\n
+    2. Place your hands behind your head or straight out in front of you for balance.\n
+    3. Squat down by bending your knees, keeping your back straight and chest up.\n
+    4. As you come up from the squat, lift your left knee towards your right elbow, crossing your body.\n
+    5. Return to the starting position and repeat, alternating sides.\n
+    6. Perform the desired number of repetitions.\n
+</string>
+    <string name="prisoner_squats_instructions">Prisoner Squats:\n1. Stand with your feet shoulder-width apart and place your hands behind your head, interlocking your fingers.\n2. Lower your body into a squat position by bending your knees while keeping your back straight.\n3. Pause briefly at the bottom, then push through your heels to return to the starting position.\n4. Repeat for the desired number of repetitions.</string>
+    <string name="children_diet_plan">
+        Childrens Diet Plan\n
+        Here is a sample diet plan for children:\n\n
+
+        Breakfast\n
+        - Whole grain cereal with milk\n
+        - Sliced bananas or strawberries\n
+        - Orange juice\n\n
+
+        Mid-Morning Snack\n
+        - Apple slices with peanut butter\n
+        - Carrot sticks with hummus\n\n
+
+        Lunch\n
+        - Turkey and cheese sandwich on whole wheat bread\n
+        - Baby carrots with ranch dressing\n
+        - Low-fat yogurt\n\n
+
+        Afternoon Snack\n
+        - Graham crackers with cheese\n
+        - Sliced cucumber with hummus\n\n
+
+        Dinner\n
+        - Grilled chicken breast\n
+        - Steamed broccoli\n
+        - Brown rice\n\n
+
+        Bedtime Snack\n
+        - Low-fat yogurt with sliced strawberries\n
+        - Whole grain crackers with cheese
+    </string>
+    <string name="teenage_female_diet_plan">
+        Teenage Female Diet Plan\n
+        Here is a sample diet plan for teenage females:\n\n
+
+        Breakfast\n
+        - Whole grain toast with avocado\n
+        - Scrambled eggs\n
+        - Orange juice\n\n
+
+        Mid-Morning Snack\n
+        - Greek yogurt with mixed berries\n
+        - Almonds\n\n
+
+        Lunch\n
+        - Grilled chicken salad with mixed greens\n
+        - Whole grain roll\n
+        - Apple slices\n\n
+
+        Afternoon Snack\n
+        - Hummus with carrot and cucumber sticks\n
+        - Whole grain crackers\n\n
+
+        Dinner\n
+        - Baked salmon\n
+        - Quinoa pilaf\n
+        - Steamed broccoli\n\n
+
+        Evening Snack\n
+        - Low-fat cottage cheese\n
+        - Sliced peaches
+    </string>
+    <string name="neck_pain_exercise_steps">
+        Step 1: Neck Stretch\n- Sit or stand up straight.\n- Slowly lower your chin towards your chest until you feel a stretch in the back of your neck.\n- Hold for 15-30 seconds.\n- Repeat 3-5 times.\n\n
+        Step 2: Shoulder Roll\n- Stand or sit with your arms relaxed at your sides.\n- Roll your shoulders forward, up, and then back in a smooth circular motion.\n- Repeat 10-15 times, then reverse the direction for another 10-15 times.\n\n
+        Step 3: Side Neck Stretch\n- Sit or stand up straight.\n- Gently tilt your head to one side, bringing your ear towards your shoulder until you feel a stretch on the opposite side of your neck.\n- Hold for 15-30 seconds.\n- Repeat on the other side.\n- Repeat 3-5 times on each side.\n\n
+        <!-- Add more steps as needed -->
+    </string>
+    <string name="exercise_barbell_upright_row_steps">
+    Step 1: Stand with your feet shoulder-width apart, knees slightly bent, and hold a barbell with an overhand grip, hands slightly closer than shoulder-width apart.\n
+    Step 2: Keep your back straight, chest up, and shoulders back throughout the movement.\n
+    Step 3: Lift the barbell by pulling your elbows up and to the side, keeping it close to your body until it reaches chest height.\n
+    Step 4: Pause briefly at the top of the movement, then slowly lower the barbell back down to the starting position.\n
+    Step 5: Repeat for the desired number of repetitions.
+</string>
+    <string name="barbell_front_raise_steps">
+    Step 1: Stand with your feet shoulder-width apart, knees slightly bent, and hold a barbell with an overhand grip, hands shoulder-width apart in front of your thighs.\n
+    Step 2: Keep your back straight, chest up, and shoulders back throughout the movement.\n
+    Step 3: Keeping your arms straight, lift the barbell directly in front of you until your arms are parallel to the floor.\n
+    Step 4: Pause briefly at the top of the movement, then slowly lower the barbell back down to the starting position.\n
+    Step 5: Repeat for the desired number of repetitions.
+</string>
+    <string name="eye_exercise_steps">1. Sit comfortably and relax your body.\n2. Focus on an object in the distance for 10 seconds.\n3. Blink rapidly for 10 seconds.\n4. Close your eyes and relax for 20 seconds.\n5. Rotate your eyes clockwise, then counterclockwise, for 10 seconds each.\n6. Repeat steps 2-5 for 5-10 minutes.\n7. Finish by gently massaging your temples.</string>
+    <string name="back_pain_exercises">
+        1. Pelvic Tilt: Lie on your back with knees bent, tighten your abdominal muscles and push your lower back into the floor, hold for 5 seconds, then release. Repeat 10 times.<br />
+        2. Cat-Cow Stretch: Get on your hands and knees, arch your back up like a cat (cat pose), hold for 5 seconds, then lower your back down and lift your head and tailbone (cow pose), hold for 5 seconds. Repeat 10 times.<br />
+        3. Child’s Pose: Sit back on your heels, reach your arms forward and lower your chest towards the ground, hold for 15-30 seconds.<br />
+        4. Bird Dog: Get on your hands and knees, extend one arm forward and the opposite leg back, keep your hips level and your back flat, hold for 5 seconds, then switch sides. Repeat 10 times.<br />
+        5. Bridge: Lie on your back with knees bent and feet flat on the floor, lift your hips towards the ceiling, hold for 5 seconds, then lower back down. Repeat 10 times.
+    </string>
+
+    <string name="leg_pain_exercise_steps">
+    1. Warm up: Start by walking or marching in place for 5 minutes to get your blood flowing.
+    2. Calf Raises: Stand with your feet hip-width apart, slowly lift your heels off the ground, then lower them back down. Repeat 10-15 times.
+    3. Leg Stretch: Sit on the floor with one leg extended and the other bent. Lean forward, reaching towards your extended foot until you feel a stretch in the back of your thigh. Hold for 15-30 seconds, then switch legs.
+    4. Quadriceps Stretch: Stand tall, holding onto a wall or chair for balance if needed. Bend one knee, bringing your foot towards your buttocks, and grab your ankle with your hand. Hold for 15-30 seconds, then switch legs.
+    5. Hamstring Stretch: Sit on the floor with both legs extended in front of you. Lean forward, reaching towards your toes until you feel a stretch in the back of your thighs. Hold for 15-30 seconds.
+    6. Hip Flexor Stretch: Kneel on one knee with the other foot flat on the floor in front of you. Lean forward, keeping your back straight, until you feel a stretch in the front of your hip. Hold for 15-30 seconds, then switch sides.
+    7. Cool down: Finish with a few minutes of gentle walking or stretching to help your muscles relax.
+</string>
+    <string name="hand_exercise_steps">Start by stretching your fingers wide apart.\n
+Slowly close your fingers into a fist.\n
+Hold the fist position for a few seconds.\n
+Open your fist and spread your fingers again.\n
+Repeat this exercise 5 times.</string>
+
+
+    <string name="chest_pain_exercises">
+        <![CDATA[
+        1. Deep Breathing:
+        Sit or lie down comfortably. Place one hand on your chest and the other on your abdomen. Inhale deeply through your nose, allowing your abdomen to rise as much as possible. Exhale slowly through your mouth, feeling your abdomen fall. Repeat for 5-10 minutes.
+
+        2. Shoulder Rolls:
+        Stand with your feet shoulder-width apart. Roll your shoulders forward in a circular motion for 10 repetitions. Then, roll your shoulders backward for another 10 repetitions.
+
+        3. Arm Stretch:
+        Stand or sit with your back straight. Extend one arm across your chest, keeping it straight. Use your other hand to gently press your arm towards your chest until you feel a stretch in your shoulder and chest. Hold for 15-30 seconds, then switch arms.
+
+        4. Wall Push-Ups:
+        Stand facing a wall with your arms extended at shoulder height. Place your hands on the wall slightly wider than shoulder-width apart. Lower your chest towards the wall by bending your elbows, then push back to the starting position. Repeat for 10-15 repetitions.
+
+        5. Seated Chest Stretch:
+        Sit on a chair with your feet flat on the floor. Clasp your hands behind your back and straighten your arms. Lift your arms slightly and feel the stretch in your chest. Hold for 15-30 seconds, then release.
+        ]]>
+    </string>
+    <string name="kneeling_pushups_steps">Step 1: Begin by kneeling on the ground with your hands shoulder-width apart.\n
+Step 2: Extend your legs behind you so that your body forms a straight line from your knees to your head.\n
+Step 3: Lower your chest towards the ground by bending your elbows while keeping your back straight.\n
+Step 4: Push back up to the starting position by straightening your arms.\n
+Step 5: Repeat for the desired number of repetitions.</string>
+    <string name="diamond_pushup_steps">
+    1. Start in a plank position with your hands directly under your shoulders and your body forming a straight line from head to heels.\n
+    2. Walk your hands closer together until they are directly under your chest, forming a diamond shape with your index fingers and thumbs.\n
+    3. Lower your body towards the ground, keeping your elbows close to your sides.\n
+    4. Push back up to the starting position, fully extending your arms.\n
+    5. Repeat for the desired number of repetitions.\n
+</string>
+    <string name="pushup_steps">1. Start in a plank position.\n2. Lower your body until your chest nearly touches the floor.\n3. Push yourself back up to the starting position.\n4. Repeat for the desired number of repetitions.</string>
+    <string name="reverse_kneeling_pushups_steps">
+    Step 1: Begin by kneeling on the ground with your arms extended in front of you and your hands shoulder-width apart.\n
+    Step 2: Engage your core and slowly lower your body towards the ground by bending your elbows.\n
+    Step 3: Keep your back straight and lower your chest as close to the ground as possible.\n
+    Step 4: Pause briefly at the bottom of the movement.\n
+    Step 5: Push through your palms to raise your body back to the starting position.\n
+    Step 6: Repeat for the desired number of repetitions.\n
+</string>
+    <string name="concentration_curl_steps">
+    Step 1: Sit on a flat bench with your legs spread apart and your feet flat on the ground.\n
+    Step 2: Hold a dumbbell in your right hand and place the back of your right upper arm against the inner thigh of the same side.\n
+    Step 3: Your arm should be fully extended with your palm facing up.\n
+    Step 4: Keeping your upper arm stationary, exhale and curl the weight upward while contracting your biceps.\n
+    Step 5: Continue to curl the weight until your biceps are fully contracted and the dumbbell is at shoulder level.\n
+    Step 6: Hold the contracted position for a brief pause, then inhale and slowly lower the dumbbell back to the starting position.\n
+    Step 7: Repeat for the desired number of repetitions, then switch arms and repeat the exercise with your left arm.\n
+</string>
+    <string name="crossbody_hammer_curl_steps">1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand at arms length by your sides, palms facing your body. \n\n
+2. Keeping your upper arms stationary, exhale as you curl the weights toward your shoulders while rotating your palms until they face your shoulders. Your thumbs should be pointing upward. \n\n
+3. Hold the contracted position for a brief pause, then inhale as you slowly lower the dumbbells back to the starting position. \n\n
+4. Repeat for the desired number of repetitions, then switch sides and perform the exercise with the opposite arm crossing over the body. \n\n
+5. Remember to keep your core engaged and your back straight throughout the exercise to maintain proper form.</string>
+    <string name="inner_bicep_curl_steps">
+    1. Stand with your feet shoulder-width apart, holding a dumbbell in each hand, palms facing your body.\n\n
+    2. Keep your elbows close to your torso and slowly curl the dumbbells towards your shoulders, rotating your wrists inward as you lift.\n\n
+    3. Squeeze your biceps at the top of the movement, then slowly lower the dumbbells back to the starting position.\n\n
+    4. Repeat for the desired number of repetitions, maintaining control and proper form throughout the exercise.\n\n
+</string>
+    <string name="preacher_curl_instructions">1. Sit on the preacher bench, ensuring your upper arms rest firmly against the pad.\n\n
+2. Grasp the EZ curl bar with an underhand grip, slightly wider than shoulder-width apart.\n\n
+3. Begin with your arms fully extended, elbows locked.\n\n
+4. Exhale and curl the bar upwards, keeping your upper arms stationary.\n\n
+5. Continue the movement until your biceps are fully contracted and the bar is at shoulder level.\n\n
+6. Hold for a brief pause, then inhale and slowly lower the bar back to the starting position.\n\n
+7. Repeat for the desired number of repetitions.\n\n
+8. Maintain controlled movements throughout the exercise, focusing on engaging your biceps.\n\n
+9. Avoid using momentum to swing the weight up, as this reduces effectiveness and increases injury risk.\n\n
+    </string>
+    <string name="teenage_male_diet_plan">
+    <![CDATA[
+    Teenage Male Diet Plan:\n\n
+
+    Breakfast:\n\n
+    - 2 slices of whole-grain toast\n\n
+    - 2 eggs (scrambled or boiled)\n\n
+    - 1 cup of mixed berries\n\n
+
+    Mid-Morning Snack:\n\n
+    - 1 apple or banana\n\n
+
+    Lunch:\n\n
+    - Grilled chicken breast\n\n
+    - Mixed salad with olive oil dressing\n\n
+    - 1 small serving of brown rice\n\n
+
+    Afternoon Snack:\n\n
+    - Handful of almonds or walnuts\n\n
+
+    Dinner:\n\n
+    - Baked salmon fillet\n\n
+    - Steamed broccoli and carrots\n\n
+    - Quinoa or sweet potato\n\n
+
+    Evening Snack (optional):\n\n
+    - Greek yogurt with honey\n\n
+
+    Remember to drink plenty of water throughout the day and adjust portion sizes according to individual needs and activity levels.]]>
+</string>
+    <string name="female_diet_plan">
+    <![CDATA[
+    <b>Healthy Eating Tips for Adult Females:</b>\n\n
+
+    1. Eat a Variety of Nutrient-Rich Foods:\n
+    Include fruits, vegetables, whole grains, lean proteins, and healthy fats in your diet.\n\n
+
+    2. Control Portion Sizes:\n
+    Be mindful of portion sizes to avoid overeating.\n\n
+
+    3. Stay Hydrated:\n
+    Drink plenty of water throughout the day. Limit sugary beverages.\n\n
+
+    4. Limit Added Sugars and Processed Foods:\n
+    Choose whole, unprocessed foods whenever possible and limit intake of sugary snacks and drinks.\n\n
+
+    5. Monitor Sodium Intake:\n
+    Reduce consumption of high-sodium foods and use herbs and spices to flavor meals instead.\n\n
+
+    6. Include Healthy Fats:\n
+    Incorporate sources of healthy fats such as avocados, nuts, seeds, and olive oil into your diet.\n\n
+
+    7. Practice Mindful Eating:\n
+    Pay attention to hunger and fullness cues, and eat slowly to fully enjoy your meals.\n\n
+
+    Remember, a healthy diet is about balance and moderation. Consult with a healthcare professional or registered dietitian for personalized advice.
+    ]]>
+</string>
+    <string name="male_diet_plan">\n\n
+    Breakfast:\n\n
+    - Option 1: Steel-cut oats cooked with low-fat milk or water, topped with sliced bananas, fresh berries (such as blueberries or raspberries), and a sprinkle of chia seeds.\n\n
+    - Option 2: Whole grain toast topped with mashed avocado, sliced hard-boiled eggs, and a side of grape tomatoes. Enjoy with a glass of freshly squeezed orange juice.\n\n
+
+    Morning Snack:\n\n
+    - Greek yogurt mixed with a teaspoon of flaxseeds, a handful of mixed nuts (such as almonds, walnuts, and cashews), and a drizzle of maple syrup. Pair with a small apple or pear.\n\n
+
+    Lunch:\n\n
+    - Option 1: Grilled chicken breast marinated in herbs and lemon juice, served with quinoa pilaf mixed with roasted vegetables (like zucchini, bell peppers, and onions) and a side of steamed asparagus spears.\n\n
+    - Option 2: Turkey and avocado wrap made with whole wheat tortilla, filled with sliced turkey breast, mashed avocado, lettuce, and tomato. Serve with a side of carrot and cucumber sticks.\n\n
+
+    Afternoon Snack:\n\n
+    - Homemade trail mix containing almonds, pumpkin seeds, dried cranberries, and dark chocolate chips. Enjoy with a cup of green tea.
+
+    Dinner:\n\n
+    - Option 1: Baked cod fillet seasoned with paprika and garlic, served with a quinoa salad mixed with diced mango, cucumber, red onion, and cilantro, dressed with lime juice and olive oil. Serve alongside steamed green beans.
+    - Option 2: Stir-fried tofu and vegetable stir-fry made with broccoli, bell peppers, snap peas, and mushrooms, seasoned with soy sauce and ginger. Enjoy with a side of brown rice.
+
+    Evening Snack:\n\n
+    - Cottage cheese topped with sliced strawberries and a drizzle of honey. Enjoy with a small handful of whole grain crackers.
+</string>
+
+
+    <string name="old_age_meal_plan">
+        Breakfast:\n
+        Oatmeal with low-fat milk\n
+        Whole grain toast with peanut butter\n
+        Fresh fruit (e.g., banana, berries)\n
+        A glass of orange juice or water\n\n
+
+        Mid-Morning Snack:\n
+        Greek yogurt with honey\n
+        Handful of mixed nuts\n
+        Whole grain crackers with cheese\n\n
+
+        Lunch:\n
+        Grilled chicken breast\n
+        Quinoa or brown rice\n
+        Steamed vegetables (e.g., broccoli, carrots)\n
+        Green salad with olive oil dressing\n
+        A piece of fruit (e.g., apple, pear)\n\n
+
+        Afternoon Snack:\n
+        Whole grain crackers with hummus\n
+        Cottage cheese with sliced cucumber\n
+        Homemade trail mix (nuts, dried fruits, seeds)\n\n
+
+        Dinner:\n
+        Baked salmon or tofu\n
+        Sweet potatoes or whole grain pasta\n
+        Steamed or roasted vegetables (e.g., spinach, cauliflower)\n
+        Bean salad with vinaigrette dressing\n
+        A small piece of dark chocolate for dessert\n\n
+
+        Evening Snack:\n
+        Low-fat cottage cheese with pineapple\n
+        Whole grain cereal with milk\n
+        Air-popped popcorn\n\n
+
+        Remember to drink plenty of water throughout the day!
+    </string>
+    <string name="knee_touches_workout_steps">1. Stand upright with your feet shoulder-width apart.\n
+2. Lift your right knee towards your chest, keeping your left foot firmly planted on the ground.\n
+3. Reach your hands down towards your right knee, aiming to touch or come as close as possible without straining.\n
+4. Return to the starting position and repeat the movement with your left knee.\n
+5. Continue alternating between right and left knees for the desired number of repetitions or time.\n
+6. Remember to engage your core muscles throughout the exercise for stability and balance.\n
+7. Breathe steadily and maintain good posture throughout the workout.</string>
+    <string name="dumbbell_reverse_bicep_curl_steps">
+    1. Stand straight with a dumbbell in each hand, palms facing downward, and arms fully extended by your sides.
+    \n
+    2. Keeping your upper arms stationary, exhale as you curl the dumbbells upward while contracting your biceps.
+    \n
+    3. Continue curling until the dumbbells are at shoulder level and your biceps are fully contracted.
+    \n
+    4. Hold the contracted position for a brief pause, then inhale as you slowly lower the dumbbells back to the starting position.
+    \n
+    5. Repeat for the desired number of repetitions.
+    \n
+    6. Ensure controlled movements throughout the exercise to maximize effectiveness and prevent injury.
+</string>
+    <string name="dumbbell_seated_alternate_bicep_curl_steps">
+1. Sit on a bench with your back straight and feet flat on the floor.
+\n
+2. Hold a dumbbell in each hand, palms facing up, and let your arms hang by your sides.
+\n
+3. Keep your elbows close to your body and curl one dumbbell towards your shoulder while exhaling.
+\n
+4. Lower the dumbbell back down to the starting position while inhaling.
+\n
+5. Repeat the curling motion with the opposite arm.
+\n
+6. Continue alternating arms for the desired number of repetitions.
+\n
+7. Remember to maintain proper form and control throughout the exercise.
+</string>
+    <string name="jump_squat_steps">
+    1. Stand with your feet shoulder-width apart.\n
+    2. Lower your body into a squat position, keeping your back straight.\n
+    3. Explode upwards, jumping as high as you can.\n
+    4. Land softly, bending your knees to absorb the impact.\n
+    5. Repeat for the desired number of repetitions.\n
+</string>
+    <string name="sit_steps">
+    1. Stand with your back against a sturdy wall.\n
+    2. Slowly slide your back down the wall until your knees are bent at a 90-degree angle, as if you were sitting in an invisible chair.\n
+    3. Keep your back straight against the wall and hold this position for as long as you can.\n
+    4. Make sure your thighs are parallel to the ground and your knees are directly above your ankles.\n
+    5. Focus on keeping your core engaged and your breathing steady.\n
+    6. Hold the position for the desired duration or until your muscles fatigue.\n
+    7. Slowly push yourself back up the wall to return to a standing position.\n
+    </string>
+
+
+
+
+</resources>

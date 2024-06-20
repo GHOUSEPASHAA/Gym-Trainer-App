@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AboveActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:title="PULSE 8 ELITE GYM"
+        app:titleTextColor="@color/white" />
+
+    <androidx.gridlayout.widget.GridLayout
+        android:layout_width="417dp"
+        android:layout_height="500dp"
+        app:columnCount="2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar2"
+        app:rowCount="6">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:foregroundGravity="fill"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1">
+
+            <ImageView
+                android:id="@+id/absimage"
+                android:layout_width="50dp"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+
+                app:srcCompat="@drawable/abs" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:foregroundGravity="fill"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1">
+
+            <ImageView
+                android:id="@+id/bicepsimage"
+                android:layout_width="50dp"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+
+                app:srcCompat="@drawable/biceps" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:foregroundGravity="fill"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1">
+
+            <ImageView
+                android:id="@+id/legs"
+                android:layout_width="50dp"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+
+                app:srcCompat="@drawable/leg" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:foregroundGravity="fill"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1">
+
+            <ImageView
+                android:id="@+id/shoulder"
+                android:layout_width="50dp"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+
+                app:srcCompat="@drawable/shoulder" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:foregroundGravity="fill"
+            android:orientation="horizontal"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1">
+
+            <ImageView
+                android:id="@+id/chest"
+                android:layout_width="50dp"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+
+                app:srcCompat="@drawable/chest" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/black"
+            android:foregroundGravity="fill"
+            android:orientation="horizontal"
+            app:layout_columnWeight="1"
+            app:layout_rowWeight="1">
+
+            <ImageView
+                android:id="@+id/triceps"
+                android:layout_width="50dp"
+                android:layout_height="150dp"
+                android:layout_weight="1"
+
+                app:srcCompat="@drawable/triceps" />
+        </LinearLayout>
+
+    </androidx.gridlayout.widget.GridLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
